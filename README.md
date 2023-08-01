@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Can Midi</h1>
-<h3 align="center">A passionate Full Stack developer from Turkey</h3>
+<h3 align="center">A passionate Front End developer from Turkey</h3>
 
 - 📫 How to reach me **hasancanmidi@hotmail.com**
 
