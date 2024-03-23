@@ -3,7 +3,7 @@
 <p align="center">
 📫 How to reach me **hasancanmidi@hotmail.com** <br>
 📃 My online <a href="https://hasancanmidi.github.io/"  target="_blank">CV</a><br/>
-📃 My <a href="https://drive.google.com/file/d/18K6zCB6bU_tyTjLzwd52UEwWbKXhW8-M/view?usp=sharing" target="_blank" >CV</a>
+📃 My <a href="https://drive.google.com/file/d/1qeh7gbKjjuEJyRzESU9CVD5gLFjQQLzM/view?usp=drive_link" target="_blank" >CV</a>
 </p><h3 align="center">Connect with me:</h3>
 <p align="center">
     <div align="center">
