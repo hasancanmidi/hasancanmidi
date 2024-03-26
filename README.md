@@ -82,9 +82,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/hasancanmidi/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/hasancanmidi/hasancanmidi/output/snake.svg" alt="Snake animation" />
-
-###
